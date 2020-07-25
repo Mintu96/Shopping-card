@@ -1,5 +1,5 @@
 import React from 'react';
-
+//features
 
 function App() {
   return (
@@ -8,8 +8,7 @@ function App() {
         <a href="/">Shoping cart</a> 
       </header>
       <main>
-
-        Product List
+         Product List
       </main>
       <footer>
         All right is reserved
